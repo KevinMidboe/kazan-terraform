@@ -2,6 +2,7 @@
 
 Terraform plan for spinning up kubernetes cluster (named kazan) on local proxmox host.
 
+Ansible project for configuration: [https://github.com/kevinmidboe/kazan-ansible](https://github.com/kevinmidboe/kazan-ansible)
 
 ## Setup
 Export credentials for proxmox host:
